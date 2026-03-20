@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    const int N = 10000000; // 10 million values
+    const int N = 10000000;
     vector<int> arr(N);
 
     srand(time(0));
